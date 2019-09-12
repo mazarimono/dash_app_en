@@ -217,7 +217,7 @@ index_page = html.Div(
         ),
         html.Div([
             html.P("今日の資料: https://pyconjp.herokuapp.com", style=index_link_style),
-            html.P("Today's Material: http://pyconjp-en/herokuapp.com", style=index_link_style),
+            html.P("Today's Material: https://pyconjp-en.herokuapp.com", style=index_link_style),
             html.P("twitter: @ogawahideyuki", style=index_link_style)
         ])
     ],

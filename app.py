@@ -1496,7 +1496,7 @@ about_dash = html.Div(
                         html.Div(
                             [
                                 html.Div(
-                                    [html.H1("Sharing knowledge of data analysis", style=title_font)],
+                                    [html.H1("Share detailed data and analyze data at a deeper level, with Dash.", style=title_font)],
                                     style=title_style,
                                 ),
                                 html.Div(
@@ -1523,7 +1523,7 @@ about_dash = html.Div(
                                 html.Div(
                                     [
                                         html.P(
-                                            "The gap is filled with Dash!",
+                                            "Share detailed data to fill the gaps and deepen understanding of the data.",
                                             style={
                                                 "fontSize": 60,
                                                 "textAlign": "center",
@@ -1620,7 +1620,7 @@ about_dash = html.Div(
                                                             """
                         - The more information we get, the more we understand.
                         - Know where we want to drill down.
-                        ### The gap is filled and the analysis is better.
+                        ### The gap between the customer and the analysit is filled, the understanding of the data is deepend. And the effectiveness of the data analysis increases.
                         """,
                                                             style=mkd_style,
                                                         )

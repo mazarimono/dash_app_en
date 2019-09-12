@@ -2777,6 +2777,7 @@ epilogue = html.Div(
             ],
             style=mkd_outside_style,
         ),
+        html.Div([html.H1("Special Thanks: driller",  style={"fontSize": 60, "fontWeight": "bold", "textAlign": "center", "padding": 10})], style=title_style),
         html.Div(
             [
                 dcc.Upload(

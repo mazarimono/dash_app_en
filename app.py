@@ -347,7 +347,7 @@ intro = html.Div(
                                 dcc.Markdown(
                                     """
                 - Data is well understood when visualized.
-                - The current presentation apps are difficult to handle a lot of data.
+                - The current presentation tools are difficult to handle data.
                 - Data analysis has worth spending time.
 
                 """,
